@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F04F-533C
+
+ Directory of C:\Users\Transitus14\Desktop\Git_Project
+
+08-Nov-17  09:46 AM    <DIR>          .
+08-Nov-17  09:46 AM    <DIR>          ..
+08-Nov-17  09:46 AM                 0 Git_Project01.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  90,710,339,584 bytes free
